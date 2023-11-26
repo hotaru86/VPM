@@ -5,6 +5,10 @@ hotaru86のboothストア「ほたるのひかり」の、VRChatのVPM用リポ�
 
 boothストアは[こちら](https://hotaru86.booth.pm/)
 
+個別のパッケージ内容は、以下からご確認ください。
+
+- [Hotaru Inventry System](https://github.com/hotaru86/HotaruInventrySystem)
+
 ## 導入手順
 VCCをインストール済みなら、[https://hotaru86.github.io/VPM/](https://hotaru86.github.io/VPM/)にアクセスし、「Add to VCC」を押すことで、VCCのリストに追加できます。
 
